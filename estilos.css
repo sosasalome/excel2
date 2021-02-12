@@ -1,0 +1,186 @@
+.html{
+	scroll-behavior: smooth;
+}
+ .div34 {
+background-color: white;
+height: 60PX; }
+.body
+{
+	background-image: url(verde.jpg);
+	background-size: 100%, 100%;
+	background-attachment: fixed;
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+
+.a{
+	 text-decoration:none;
+	 color: black;
+}
+.foto{
+	 max-width: 90%;
+         height:40%;}
+}
+
+.p
+{
+	text-align: justify;	
+}
+.header
+{
+	font-size: 45px;
+	padding-left: 90px;
+	width: 700px:; height: 114px;
+	background-color: white;
+	transition: 0s;
+}
+
+.header:hover
+{
+	transition: 0s;
+	background-color: white;
+}
+
+.logo
+{
+	margin-left: 100px;
+	margin-top: -80px;
+	width: 80px;
+	height: 75px;
+	background-size: 80px, 80px;
+	background-image: url(excel.png);
+}
+
+.anclas
+{
+	position: fixed;
+}
+
+.inicio
+{
+	transition: 0.3s;
+	width: 105px;
+	height: 90px;
+	padding-left: 30px;
+	padding-top: 10px;
+	background-color: white;
+	font-size: medium;
+}
+
+.inicio:hover
+{
+	transition: 0.3s;
+	width: 90px;
+	height: 32px;
+	padding-left: 30px;
+	padding-top: 10px;
+	background-color:white;
+	font-size: large;
+}
+
+.excel
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 600px;
+	height: 650px;
+	background-color: #9BFEBC;
+	border-radius: 8px;
+}
+
+.sumar
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 600px;
+	height: 350px;
+	background-color: pink;
+	border-radius: 8px;
+}
+
+.imgsuma
+{
+	background-image: url(suma.png);
+	width: 285px;
+	height: 199px;
+	background-size: fill;
+}
+
+.promedio
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 600px;
+	height: 350px;
+	background-color: #D7FE9B;
+	border-radius: 8px;
+}
+
+.imgpromedio
+{
+	background-image: url(promedio.png);
+	width: 493px;
+	height: 166px;
+	background-size: fill;
+}
+
+.indice
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 600px;
+	height: 300px;
+	background-color: #FEE89B;
+	border-radius: 8px;
+}
+
+.imgindice
+{
+	background-image: url(indice.png);
+	width: 571px;
+	height: 155px;
+	background-size: fill;
+}
+
+.contar
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 600px;
+	height: 400px;
+	background-color: #FEBE9B;
+	border-radius: 8px;
+}
+
+.imgcontar
+{
+	background-image: url(contar.png);
+	width: 221px;
+	height: 254px;
+	background-size: fill;
+}
+
+.buscarv
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 600px;
+	height: 400px;
+	background-color: red;
+	border-radius: 8px;
+}
+
+.imgbuscarv
+{
+	background-image: url(buscarv.png);
+	width: 445px;
+	height: 224px;
+	background-size: fill;
+}
